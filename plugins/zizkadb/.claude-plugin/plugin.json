@@ -1,0 +1,10 @@
+{
+  "name": "zizkadb",
+  "version": "1.0.0",
+  "description": "Explain why your AI agent did something and prove its recorded history is intact, with ZizkaDB, the open-source causal database for AI agents.",
+  "author": { "name": "Zizka AI", "email": "founder@zizka.ai" },
+  "homepage": "https://github.com/ZIZKA-AI-SL/ZizkaDB",
+  "repository": "https://github.com/ZIZKA-AI-SL/zizkadb-skills",
+  "license": "MIT",
+  "keywords": ["ai-agents", "observability", "audit-log", "causal", "mcp", "eu-ai-act"]
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "zizkadb": {
+      "command": "uvx",
+      "args": ["zizkadb-mcp"],
+      "env": {
+        "ZIZKADB_HOST": "${ZIZKADB_HOST:-http://localhost:8000}",
+        "ZIZKADB_API_KEY": "${ZIZKADB_API_KEY:-}"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "zizkadb",
+  "description": "ZizkaDB skills for coding agents: explain why an AI agent did something, and prove its history is intact.",
+  "owner": {
+    "name": "Zizka AI",
+    "email": "founder@zizka.ai"
+  },
+  "plugins": [
+    {
+      "name": "zizkadb",
+      "source": "./plugins/zizkadb",
+      "description": "Why and Audit skills plus the ZizkaDB MCP server: causal chains of agent decisions and hash-chain verification."
+    }
+  ]
+}
